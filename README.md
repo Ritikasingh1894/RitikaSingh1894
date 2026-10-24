@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/v2/D4D16AQHghKq9aYvTqQ/profile-displaybackgroundimage-shrink_350_1400/B4DaANqdVcJoAU-/0/1786935629413?e=1794441600&v=beta&t=07ItWZ0T0psRiK70drZq8w1WFu1heMHFBIh_WuMiTqg)
 <h1 align="center">Hi 👋, I'm Ritika Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer /h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/267c187db5bef38cee7b5e940da5c78420dbf09e87fb50a878ce5af49401f307/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313531393636302f73637265656e73686f74732f343533363535302f6d656469612f30353335333135303862386265386637303032383135393131666138366364632e676966">
 
