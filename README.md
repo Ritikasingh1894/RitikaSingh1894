@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQHghKq9aYvTqQ/profile-displaybackgroundimage-shrink_350_1400/B4DaANqdVcJoAU-/0/1786935629413?e=1794441600&v=beta&t=07ItWZ0T0psRiK70drZq8w1WFu1heMHFBIh_WuMiTqg)
 <h1 align="center">Hi 👋, I'm Ritika Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
